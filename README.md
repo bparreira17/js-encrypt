@@ -3,7 +3,7 @@
 ## Whats is this?
 This a repository to encryption in JS. We are going to approach topics such as:
 
-Classical Encryption:
+**Classical Encryption**:
 
 -*Caesar Cipher*
 -*Vigenère Cipher*
@@ -13,7 +13,7 @@ Classical Encryption:
 -*Two Square Cipher*
 -*Transposition Cipher*
 
-Modern Encryption:
+**Modern Encryption**:
 
 -*Tor (The Onion Router)*
 -*HTTPS (Secure HTTP)*
