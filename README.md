@@ -3,13 +3,17 @@
 ## Whats is this?
 This a repository to encryption in JS. We are going to approach topics such as:
 
-##asd encrypti
-onasdsasdasdasdasdadsa
+###Classical Encryption:
 
->Caesar Cipher
->Vigenère Cipher
->One Time Pad
->Playfair Cipher
->Four Square asd
->Two Square Cipher
->Transposition Ciphersasdsdasdsa:::;sad
+*Caesar Cipher
+*Vigenère Cipher
+*One Time Pad
+*Playfair Cipher
+*Four Square asd
+*Two Square Cipher
+*Transposition Cipher
+
+####Modern Encryption:
+*Tor (The Onion Router)
+*HTTPS (Secure HTTP)
+*Perfect Forward Secrecy
